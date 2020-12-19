@@ -1,0 +1,27 @@
+{
+  "name": "homyit-guide",
+  "version": "1.0.0",
+  "description": "Homyit studio development",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Homyit-Studio/Homyit-Guide.git"
+  },
+  "author": "Indomite",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Homyit-Studio/Homyit-Guide/issues"
+  },
+  "homepage": "https://github.com/Homyit-Studio/Homyit-Guide#readme",
+  "dependencies": {
+    "core-js": "^2.6.12",
+    "vuepress": "^1.1.0"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1"
+  }
+}
